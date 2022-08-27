@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "breaking-bad-reminders",
+  "private_key_id": "ee35f3b336dcaf8b1a9372d741555e347af092a6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCkA+04qKIR6bs1\nUawNXAzQwkpcEtDzGoT3WD1blhW8KFWzKxFZXhC1UmwiHdtf00D7f8Iqf5nTunA6\nCiSDOJVadnelY+HmeBWAqc5QGozsoN1xT98p39XQBdkYaUNfiuQT6RCsnj+9Lnjs\nKiK7fCer8PWBZM0NC1g/hccym3TZhQ5qyYgLnfdgqBuHIxHtuKk4NHfCzb74eIvq\nlSKjmikZlETUVSBs6iIJNTZa3QYIZggO02Uq1ipCx/KcD7JAXTrYVhOlgkc7AzvR\npvdSl+ADJJcGciBEABT6SnlOjNRV6xRL/VpSYNCSR+gyCyAr7oL2Dv+yfKHxzREW\ng6JZM8krAgMBAAECggEABiCltpt3Xyuqa0FkA26d82GDaxqeABle0qCKBt5ZSKvb\n9FxbHknAFTGKZPNU5F+9YVW2/3ctyeg3ppEqJzDeICU4Cj1aDaBWBVGJl4g/i0p3\n0k4OmizkMegWBmUE7qK14mEdH+7333/rryy/0W/kbmQwCielx8f6Swr2SqC5nP0C\nTTwkT/6wBPQOBhh5+iM9o0Pj/RXgdus7r8ZR28nV1caov8JzGXEBVGh9nwfVi6cV\nWaA/wSg2cc6+BgjhJ569SeifOfUzxg7JXhdXDYBrmnI+v2Ob4PJGMV48SgFsQTp2\nnA9j9tbvtrebwJP80A+TAe+cZsGb77o3dnmMU+2GGQKBgQDntCIzsX84tJcnUsQS\n4P0AV5Dy2oLAznjD6/BOzAehR+mgFrO+5JsXcQViNV+gwLoQu7+p/4+7F7LYkzcP\ncbeM6E8FjILQH3VKrSVGAjLg25ADuHnDeEVKGxbgW9RWhxsmE8jTxFmd3siHRZOG\nF5Cm3Jge/A4Gj6oubi10zR+A7wKBgQC1NsObb7fy8Xv2eWLT0Yf1F2LgYdjN1dj4\n3eMTwoOHVjzg6/VLjpniGkoN8RbPVt8Mn/A7TGDW06sVcUOMRncpQwpEa+lXm9yg\n+adoXWZUfKkjTXwbIsPFEawzyVx4F/yX4CNve8GJAwB1DcX6iSGRb/U0+hgcXw7o\n+mmhld0DhQKBgQCEVC94YHXtN85f6fgLZC16ZYhl+n/Uh9cW5gf/qKzu4ng+MtkD\nO+KLl8PgW+U6lPdvGRsUht1al+VPpXw7uNGAiyieXapUHLNLK+nuutC99Qeh6Fi6\nV1UTRrdg+XEi3dSWgZQfxbL848CY6Rag7ZJyiefjQkbsXl5uWARkAcZtRwKBgEjP\n+WbSS+pNB48wlPohXeyn+e3IwxFp1KWimmRNKwZNK2cAyG4UnVZRU+IoNg8Xi8YJ\n2cAp31tSb5LNEOQjSCwHKO/3ICo4kT0JMy/nH3/hGyD5OF266Uic4kForkP+91qb\nEAHyiwAfeaaO4zbYtOk4QCGKP/feZiJMw/bOPaD1AoGBAI4/6WdlJzguVqBQ0X0k\nSClg3sbJDXZprbK0O6u4ms5hthS26B/u4paheaR2Dl7c5iFA3Kgt9VAwEfdqaaol\nhankuECJTXs/nWvr2b411bETzMXmKpR0n9zJShaCD+rJ79kCwcUbBa1UrIW5I97W\nAjRnCDQS9SqdfMUzxzGxzg+W\n-----END PRIVATE KEY-----\n",
+  "client_email": "griffins-virtual-assistant@breaking-bad-reminders.iam.gserviceaccount.com",
+  "client_id": "103563524643615607148",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/griffins-virtual-assistant%40breaking-bad-reminders.iam.gserviceaccount.com"
+}

@@ -1,0 +1,3 @@
+message filter:
+    create datetime object filters that parse words and detect if they are dates or times - useful in adding increased information scanning functionality
+    switch from eliminating words to scanning for certain words
